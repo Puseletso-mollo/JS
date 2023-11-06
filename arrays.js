@@ -8,7 +8,7 @@ courses[5]="Flutter"
 
 console.log("courses available:"+ courses);
 console.log("new semester courses:"+ courses);
-courses.push(["Vue", "Svelte", "C/C++", "Python", "C#"])
+courses.push(["Vue", "Svelte", "C/C++", "Python", "C#p66"])
 console.log(courses.toString())
 
 let learners = new Array(3)
