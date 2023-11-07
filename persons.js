@@ -12,8 +12,8 @@ let jane = new Person("Jane", 19);
 console.log(john);
 console.log(jane);
 
-let thoko ={
-    'name' : 'thoko',
+let tumi ={
+    'name' : 'tumi',
     'age' : 25,
 
 };
@@ -25,5 +25,5 @@ function Students(name, age, course) {
 
 }
 
-let lydia= new Students(thoko, thoko.age, "Full Stack");
-console.log(lydia)
+let lucy= new Students(tumi, tumi.age, "Full Stack");
+console.log(lucy)
