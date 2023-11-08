@@ -1,4 +1,4 @@
-class vehicle {
+export default class vehicle {
     constructor (make, name, engine){
         this.make = make;
         this.name = name;
