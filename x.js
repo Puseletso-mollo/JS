@@ -1,8 +1,8 @@
 // import fs from 'fs'
 
 const Student ={
-    name : 'Siyamthanda',
-    age : '31',
+    name : 'Phumlani',
+    age : '30§§',
     course : 'Dip in ICT',
     module : 'Communications and Media'
 };
